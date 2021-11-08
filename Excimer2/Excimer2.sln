@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excimer2", "Excimer2\Excimer2.csproj", "{2D08A271-59E2-4255-9A63-30DCC466BC3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D08A271-59E2-4255-9A63-30DCC466BC3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D08A271-59E2-4255-9A63-30DCC466BC3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D08A271-59E2-4255-9A63-30DCC466BC3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D08A271-59E2-4255-9A63-30DCC466BC3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF7DB465-7BF8-41C6-9E2B-DAB0BEE6214E}
+	EndGlobalSection
+EndGlobal
